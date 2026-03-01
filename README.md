@@ -60,7 +60,7 @@ DOM manipülasyonu, event delegation ve localStorage veri kalıcılığı
 <h2>📂 Proje Yapısı</h2>
 
 <pre>
-memoflow-note-app/
+memoflow–smart-note-manager/
 │
 ├── index.html
 ├── style.css
@@ -92,7 +92,7 @@ memoflow-note-app/
 <p>Projeyi klonlayın:</p>
 
 <pre>
-git clone https://github.com/kenansonmez1617-hub/memoflow-note-app.git
+git clone https://github.com/kenansonmez1617-hub/memoflow–smart-note-manager.git
 </pre>
 
 <p>
